@@ -18,6 +18,8 @@ Command       Meaning
 6             Print array
 9             End of data
 
+*/
+
 #include <stdio.h>
 
 void moveForward(int arr[][20],int ,int ,int,int);  // movement

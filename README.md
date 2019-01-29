@@ -1,2 +1,2 @@
 # Homeworks
-Some homeworks and assignments
+Some homeworks and examples.
